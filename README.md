@@ -1,1 +1,0 @@
-# mintyhouse.shop
