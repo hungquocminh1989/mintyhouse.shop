@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WD Portfolio v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-12 05:18:02+0000\n"
+"Last-Translator: admin <ngan.chau@codespot.vn>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: templates/template.php:16
+#@ wpdance_pf
+msgid "Sort Portfolio:"
+msgstr ""
+
+#: templates/template.php:18
+#@ wpdance_pf
+msgid "ALL"
+msgstr ""
+
+#: templates/template.php:25
+#@ wpdance_pf
+msgid "All"
+msgstr ""
+
+#: templates/template.php:129
+#@ wpdance_pf
+msgid "View Portfolio"
+msgstr ""
+
+#: templates/template.php:130
+#@ wpdance_pf
+msgid "View Details"
+msgstr ""
+
+#: templates/template.php:155
+#@ wpdance_pf
+msgid "Sorry. There are no posts to display"
+msgstr ""
+
+#: templates/template.php:165
+#@ wpdance_pf
+msgid "Project(s)"
+msgstr ""
+
+#: wd_portfolio.php:145
+#@ wpdance_pf
+msgid "Image/Video URL"
+msgstr ""
+
+#: wd_portfolio.php:148
+#@ wpdance_pf
+msgid "Enter URL for the full-size image or video (youtube, vimeo, swf, quicktime) you want to display in the lightbox gallery. You can also choose Image URL from your Media gallery"
+msgstr ""
+
+#: wd_portfolio.php:151
+#@ wpdance_pf
+msgid "Portfolio URL"
+msgstr ""
+
+#: wd_portfolio.php:153
+#@ wpdance_pf
+msgid "Enter URL to the live version of the project."
+msgstr ""
+
+#: wd_portfolio.php:222
+#: wd_portfolio.php:233
+#: wd_portfolio.php:333
+#@ wpdance_pf
+msgid "Portfolio Items"
+msgstr ""
+
+#: wd_portfolio.php:223
+#@ wpdance_pf
+msgid "Portfolio Item"
+msgstr ""
+
+#: wd_portfolio.php:224
+#@ wpdance_pf
+msgid "Add Portfolio Item"
+msgstr ""
+
+#: wd_portfolio.php:225
+#@ wpdance_pf
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: wd_portfolio.php:226
+#@ wpdance_pf
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: wd_portfolio.php:227
+#@ wpdance_pf
+msgid "New Portfolio Item"
+msgstr ""
+
+#: wd_portfolio.php:228
+#@ wpdance_pf
+msgid "View Portfolio Item"
+msgstr ""
+
+#: wd_portfolio.php:229
+#@ wpdance_pf
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: wd_portfolio.php:230
+#@ wpdance_pf
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: wd_portfolio.php:231
+#@ wpdance_pf
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: wd_portfolio.php:318
+#@ wpdance_pf
+msgid "Options"
+msgstr ""
+
+#: wd_portfolio.php:340
+#@ wpdance_pf
+msgid "WD Portfolio"
+msgstr ""
+
